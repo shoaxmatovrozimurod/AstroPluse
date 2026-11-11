@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Butun sayt uchun umumiy sozlamalar (ixtiyoriy) */
+body {
+  background-color: #0f172a; /* space-dark rangi */
+  color: #94a3b8; /* space-text rangi */
+}

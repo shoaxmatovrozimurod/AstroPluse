@@ -1,0 +1,13 @@
+{
+  "title": "ASTRO VITALS // MISSION CONTROL",
+  "subtitle": "AUTONOMOUS SPACE CREW BIO-DIGITAL TWIN PLATFORM",
+  "nav_bio": "BIO-DIGITAL TWIN",
+  "nav_telemetry": "JONLI TELEMETRIYA",
+  "nav_crew": "EKIPAJ",
+  "nav_operations": "OPERATSIYALAR",
+  "nav_security": "XAVFSIZLIK",
+  "system_status": "TIZIM NOMINAL",
+  
+  "step_1": "1-QADAM: RAQAMLI EGIZAK EKIPAJ A'ZOSINI TANLANG",
+  "step_1_desc": "Har bir astronavtning yurak, o'pka, qon tomir, G-bardoshlik va psixologik parametrlari individual hisoblanadi."
+}

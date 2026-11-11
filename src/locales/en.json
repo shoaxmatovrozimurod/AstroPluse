@@ -1,0 +1,13 @@
+{
+  "title": "ASTRO VITALS // MISSION CONTROL",
+  "subtitle": "AUTONOMOUS SPACE CREW BIO-DIGITAL TWIN PLATFORM",
+  "nav_bio": "BIO-DIGITAL TWIN",
+  "nav_telemetry": "LIVE TELEMETRY",
+  "nav_crew": "CREW",
+  "nav_operations": "OPERATIONS",
+  "nav_security": "SECURITY",
+  "system_status": "SYSTEM NOMINAL",
+  
+  "step_1": "STEP 1: SELECT DIGITAL TWIN CREW MEMBER",
+  "step_1_desc": "Individual cardiac, pulmonary, vascular, G-tolerance, and psychological parameters are calculated for each astronaut."
+}
