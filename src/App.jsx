@@ -1,3 +1,4 @@
+import { BrowserRouter, Routes, Route } from 'react-router-dom'; // MANA SHU QATOR YETISHMAYAPTI
 import Layout from "./Components/Layout/Layout.jsx";
 import BioTwin from "./Pages/BioTwinPages/BioTwin.jsx";
 // import Telemetry from './Pages/Telemetry'; // Boshqa sahifalarni ham shunday qo'shasiz

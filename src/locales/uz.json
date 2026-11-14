@@ -9,5 +9,7 @@
   "system_status": "TIZIM NOMINAL",
   
   "step_1": "1-QADAM: RAQAMLI EGIZAK EKIPAJ A'ZOSINI TANLANG",
-  "step_1_desc": "Har bir astronavtning yurak, o'pka, qon tomir, G-bardoshlik va psixologik parametrlari individual hisoblanadi."
+  "step_1_desc": "Har bir astronavtning yurak, o'pka, qon tomir, G-bardoshlik va psixologik parametrlari individual hisoblanadi.",
+  "add_new_crew": "YANGI A'ZO QO'SHISH",
+  "add_crew_desc": "Yangi raqamli egizak yaratish"
 }

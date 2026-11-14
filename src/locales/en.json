@@ -9,5 +9,7 @@
   "system_status": "SYSTEM NOMINAL",
   
   "step_1": "STEP 1: SELECT DIGITAL TWIN CREW MEMBER",
-  "step_1_desc": "Individual cardiac, pulmonary, vascular, G-tolerance, and psychological parameters are calculated for each astronaut."
+  "step_1_desc": "Individual cardiac, pulmonary, vascular, G-tolerance, and psychological parameters are calculated for each astronaut.",
+  "add_new_crew": "ADD NEW CREW MEMBER",
+  "add_crew_desc": "Create a new digital twin"
 }
